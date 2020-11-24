@@ -1,1 +1,1 @@
-# smart-bot
+# Smart Rewards BOT.
